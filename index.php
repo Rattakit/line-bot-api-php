@@ -1,2 +1,2 @@
 <?php
-echo "Hello LINE BOT \"60160347\"";
+echo "Hello LINE BOT \"Rattakit 60160347\"";
